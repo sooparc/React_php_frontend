@@ -2,10 +2,10 @@
 
 This project was built using these technologies.
 
-1. React.js
-2. HTML5
-3. CSS3
-4. PHP
+- React.js
+- HTML5
+- CSS3
+- PHP
 
 1. Freeze Top row ✅
 2. Enable to Filter by Dept ✅
